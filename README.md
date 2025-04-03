@@ -28,7 +28,7 @@ Little About Myself
 
 
 💡 Always exploring new technologies and contributing to open-source projects.
-📩 Let's connect! You can reach me via [[LinkedIn](https://www.linkedin.com/in/samuel-hyeman-6b1626174/)/[Email]((mailto:hyemansamuel@gmail.com))]].
+📩 Let's connect! You can reach me via [[LinkedIn](https://www.linkedin.com/in/samuel-hyeman-6b1626174/)/[Email](mailto:hyemansamuel@gmail.com)].
 
 
 
