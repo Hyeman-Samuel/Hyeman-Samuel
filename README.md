@@ -3,7 +3,7 @@
 
 
 <a href="https://github.com/Hyeman-Samuel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hyeman-Samuel&show_icons=true&theme=merko&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="My github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hyeman-Samuel&show_icons=true&theme=merko&count_private=true" alt="My github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeman-Samuel&hide_progress=true&langs_count=6&show_icons=true&theme=merko&count_private=true" alt="My github top languages" />
 </a>
 
