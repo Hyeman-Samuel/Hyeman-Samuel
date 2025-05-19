@@ -24,7 +24,7 @@ Little About Myself
 - 👯 I’m looking to collaborate on backend projects, cloud deployments, and open-source tools for API load testing and API documentation.
 - 🤔 I’m looking for help with best practices for handling massive-scale distributed systems.
 - 💬 Ask me about backend development, cloud computing (AWS), real-time communication.
-- ⚡ Fun fact: I love breaking APIs with stress tests just to see where they fail!
+- ⚡ Fun fact: I do not show mercy to PR reviews!
 
 
 💡 Always exploring new technologies and contributing to open-source projects.
