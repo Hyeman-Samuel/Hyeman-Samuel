@@ -9,13 +9,13 @@
 
 I'm a backend engineer and cloud enthusiast with a passion for building scalable, high-performance systems.
 
-- 🚀 Backend Development – Proficient in Node.js (TypeScript), NestJS, and Python, with hands-on experience in architecting APIs and microservices.
+<!--  - 🚀 Backend Development – Proficient in Node.js (TypeScript), NestJS, and Python, with hands-on experience in architecting APIs and microservices.
 - ☁️ Cloud & DevOps – Skilled in AWS (EC2, S3, Redis, PostgreSQL), Docker, and CI/CD automation, ensuring seamless deployments.
 - 📡 Real-time Applications – Built real-time voice/video communication apps using Socket.IO and Agora, optimizing performance for live interactions.
 - 🔍 SQL & NoSQL Databases – Experienced with MongoDB, PostgreSQL, Redis, designing efficient data models for high-traffic systems.
 - 🛠 Technical Writing & Mentorship – I enjoy documenting processes, crafting lesson plans along with teaching programming and difficult concepts.
 
-<!-- - 📊 Big Data & Load Testing – Developed tools for automated data generation and API load testing, ensuring robustness in production.-->
+- 📊 Big Data & Load Testing – Developed tools for automated data generation and API load testing, ensuring robustness in production.
 Little About Myself
 
 - 😄 Pronouns: He/Him.
@@ -29,7 +29,7 @@ Little About Myself
 
 💡 Always exploring new technologies and contributing to open-source projects.
 📩 Let's connect! You can reach me via [[LinkedIn](https://www.linkedin.com/in/samuel-hyeman-6b1626174/)/[Email](mailto:hyemansamuel@gmail.com)].
-
+.-->
 
 
 <!--
